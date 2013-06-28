@@ -1,5 +1,5 @@
 #!/bin/bash
-#JOB:    Track execution time of argument param $1 and send email when job is complete to argument param $2
+#JOB:    Track execution time of argument param $2 and send email when job is complete to argument param $1
 #AUTHOR: Cameron S. Embree
 #EDITED: 21-June-2013
 
