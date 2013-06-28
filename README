@@ -2,3 +2,8 @@
 #Edited: 28-Jun-2013
 
 This directory is a holder for scripts.
+
+script details:
+
+rnr
+-script runs an executable and when it finishes emails you. Takes two arguments: ARG1-email to report to, ARG2-executable and any number of arguments.
